@@ -1,5 +1,5 @@
 {
-    "name": "zhujinkui/tp6-addons",
+    "name": "zhujinkui/think-module",
     "description": "Plug in based on thinkphp6 extension.",
     "type": "library",
     "license": "Apache-2.0",
